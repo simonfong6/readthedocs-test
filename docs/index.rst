@@ -42,7 +42,14 @@ Installation
 
 Install $project by running:
 
-    install project
+    ``install project
+    pip install sphinx_rtd_theme``
+    
+In ``conf.py`` add:
+
+    ``html_theme = "sphinx_rtd_theme"``
+
+
 
 Contribute
 ----------
