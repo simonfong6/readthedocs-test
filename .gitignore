@@ -33,3 +33,6 @@
 
 # Virtual Environment
 env/*
+
+# Python Compiled
+*.pyc
